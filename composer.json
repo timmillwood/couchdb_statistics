@@ -3,7 +3,7 @@
     "description": "CouchDB backend for the Statistics module.",
     "type": "drupal-module",
     "license": "GPL 2.0+",
-    "require-dev": {
+    "require": {
         "doctrine/couchdb": "@dev"
     }
 }
